@@ -24,6 +24,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/dron_kumarjit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dron_kumarjit" height="30" width="40" /></a>
+  <br>
+<img alt="Coding" width="40" src="https://user-images.githubusercontent.com/74038190/235294016-6556559a-ed58-4ca6-a4c9-c307cbe0b6b7.gif">
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
