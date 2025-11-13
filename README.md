@@ -7,11 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/dron_kumarjit" target="blank"><img src="https://img.shields.io/twitter/follow/dron_kumarjit?logo=twitter&style=for-the-badge" alt="dron_kumarjit" /></a> </p>
 
-- 🔭 I’m currently working on **Malware detection using ML**
+- 🔭 I’m currently working on **Privacy Preserving Techniques using Federated Learning and Blockchain**
 
-- 🌱 I’m currently learning **React Native,AI-ML**
-
-- 👨‍💻 All of my projects are available at [kumarjit.in](kumarjit.in)
+- 🌱 I’m interested in Cyber security , Ethical Hacking , Penetration Testing etc.
 
 - 💬 Ask me about **cyber-security,linux,DSA,CTF,Web-Development,Cryptography,Blockchain**
 
